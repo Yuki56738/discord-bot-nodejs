@@ -8,5 +8,9 @@
   },
   "author": "Yuki Ito",
   "license": "BSD-3-Clause",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "typescript": "^5.5.4"
+  }
 }
